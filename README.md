@@ -4,7 +4,7 @@
 
 ### Features:
 * This version allows multiple lists. 
-* Within each list I can add, marked as completed, and removed from the list.
+* Within each list I can add, mark as completed, and remove items from the list.
 * Lists themselves can also be edited or removed.
 
 ###check it out at http://www.crossphd.com/projects/sites/TrumpQuotes/
