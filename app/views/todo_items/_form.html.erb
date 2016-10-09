@@ -1,4 +1,4 @@
 <%= simple_form_for([@todo_list, @todo_list.todo_items.build]) do |f| %>
-  <%= f.input :content, placeholder: "New Todo" %>
+  <%= f.input :content, placeholder: "new todo item" %>
   <%= f.submit class: 'btn btn-primary' %>
 <% end %>
